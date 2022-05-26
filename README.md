@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claire
-- 👩‍💻 I am an Engineering Talent Partner at Form3, and I am currently hiring fully remote Senior Software Engineers in Argentina
+- 👩‍💻 I am a Talent Partner at Form3, and I am currently hiring fully remote Senior Software Engineers in Argentina
 - 🧰 Check out our super cool tech stack - https://stackshare.io/form3/main
 - 💞️ Interested in learning more about Form3? [careers site](https://www.form3.tech/engineering)
 - 📫 How to reach me - https://www.linkedin.com/in/claireclarkeform3/
